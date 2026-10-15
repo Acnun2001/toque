@@ -1,0 +1,1085 @@
+{
+  "requested_url": "https://oferta.poderdotoque.com/online?utm_source=FB&utm_campaign=TESTE+BIDCAP%7C120251496346450512&utm_medium=CJ77+-+1%7C120252219548940512&utm_content=5%7C120252219672080512&utm_term=Facebook_Mobile_Feed&HhSGG0vJvu=b3mAGpeka7&fbclid=IwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ&utm_id=120251496346450512",
+  "final_url": "https://oferta.poderdotoque.com/online?utm_source=FB&utm_campaign=TESTE+BIDCAP%7C120251496346450512&utm_medium=CJ77+-+1%7C120252219548940512&utm_content=5%7C120252219672080512&utm_term=Facebook_Mobile_Feed&HhSGG0vJvu=b3mAGpeka7&fbclid=IwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ&utm_id=120251496346450512",
+  "title": "poderdotoque – poderdotoque",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "images_in_dom": 64,
+  "video_tags": 0,
+  "iframe_count": 0,
+  "video_or_manifest_network_urls": [],
+  "video_asset_files": [],
+  "images_loaded": 64,
+  "downloads": [
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-28-1024x576-1-300x169.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-28-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7429,
+      "sha256": "fe21bfa85f3816aa5cb13a286a85a2ad55dd2b22653e53e5386e85a09c6d6052"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec",
+      "file": "assets/i18n.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5732,
+      "sha256": "558ae0ec83cc88de0929fde86b87c231246aafa9c961ebffb3257b05f62ca5cf"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/PROVAS-PDP-4-864x1536.png-768x1365-1-1.webp",
+      "file": "assets/PROVAS-PDP-4-864x1536.png-768x1365-1-1.webp",
+      "content_type": "image/webp",
+      "bytes": 40654,
+      "sha256": "9696e2944f3a6b2f39111d13acc51ea2a0d27c7eb02a7d744790017268ea20f2"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/14-1-150x150.png",
+      "file": "assets/14-1-150x150.png",
+      "content_type": "image/png",
+      "bytes": 11490,
+      "sha256": "efe3c224eac89419dc722a82cd933a507b6a7941ef18a9aebe79b813d7a21e19"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/13-1-1-1024x302-1-1-1-768x227-1-1-300x89.webp",
+      "file": "assets/13-1-1-1024x302-1-1-1-768x227-1-1-300x89.webp",
+      "content_type": "image/webp",
+      "bytes": 8128,
+      "sha256": "572937dae3a79f64222b419e047432cee4afa61d0423cbceeed7efbb42b61a53"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-2-576x1024.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-2-576x1024.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 65982,
+      "sha256": "b23519180db2e4ffe1966fa99ae309948a3f641c65cb04ebb615ef72f4830040"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+      "file": "assets/swiper.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 143709,
+      "sha256": "2ac3af00c283c0b2ae6108fa83a2053e51274a2a812fb063916cbe19bc4f96b5"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Captura-de-tela-2025-09-26-115304-1-300x273.jpg",
+      "file": "assets/Captura-de-tela-2025-09-26-115304-1-300x273.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 10621,
+      "sha256": "fc2870793102ac8389a104040458d3413eb854825cfc61156407f97c99445142"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d",
+      "file": "assets/hooks.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5050,
+      "sha256": "cce388fed1a82ebd20ce7d9601e4b6c83a425ea201c333d71b1183ee887cc090"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/themes/hostinger-ai-theme/assets/css/style.min.css?ver=2.0.27",
+      "file": "assets/style.min.css",
+      "content_type": "text/css",
+      "bytes": 16120,
+      "sha256": "be23304efd877c0ac44272af5ad00d9613cc07aead998fbc7b1a785522e4e01e"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/2-1-576x1024-1.jpg",
+      "file": "assets/2-1-576x1024-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 59702,
+      "sha256": "571698405bd3e40488926ab1554c62d4213608932d0946b9e550806bd72c5178"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/5.jpg",
+      "file": "assets/5.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31780,
+      "sha256": "2f31a69c295bce683eb22726ae42139bc6f1d84983960d0e13ba69e6909e0b71"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/lib/animations/styles/shake.min.css?ver=4.1.4",
+      "file": "assets/shake.min.css",
+      "content_type": "text/css",
+      "bytes": 184,
+      "sha256": "8cae2dde058e59881a42c62c05c52572f07b5639afe1a030699ebb39eb21a016"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1-1-1-169x300.jpg",
+      "file": "assets/1-1-1-169x300.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 10536,
+      "sha256": "b5970178da4a49aa644c872faf17a07de2cb149b1aa490bd1f689fbe36ffcbe1"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1-1-1.jpg",
+      "file": "assets/1-1-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 105552,
+      "sha256": "1b83ce5cfbe94a3cae8bbefb516373bc20d12108c7577bc475d9758cce85ae9c"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1-1-1-864x1536.jpg",
+      "file": "assets/1-1-1-864x1536.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 100926,
+      "sha256": "91cbe83193c88557328200368b0db1483c316a9a4a1b61ac4a0419c28bc92200"
+    },
+    {
+      "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f525.svg",
+      "file": "assets/1f525.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 822,
+      "sha256": "4fa646a4dbc10513ddeb70561789483638faf456e15186f4eb7291c5c455cbb6"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1-1-1-576x1024.jpg",
+      "file": "assets/1-1-1-576x1024.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 70257,
+      "sha256": "053a6d0d5fd5c021fb2598c74bc39ec5c793c49d2125ce72a5d79f4cd56545c6"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "file": "assets/core.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 21464,
+      "sha256": "699210a5ed06e497b4730ec83bb65ac4c2269ae4a0ee8af3f24aae7ee5b66b76"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/9-1024x576-1-768x432.jpg",
+      "file": "assets/9-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 29444,
+      "sha256": "72b11feb6832da5576902f5d5e13bb03544ff6596fddc70b421d6bbd1976105a"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/themes/hostinger-ai-theme/assets/fonts/Poppins-Regular.ttf",
+      "file": "assets/Poppins-Regular.ttf",
+      "content_type": "application/x-font-ttf",
+      "bytes": 158240,
+      "sha256": "707fdc5c8bab57a90061c6a8ed7b70d5ffb82fc810e994e79f90bace890c255a"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-24-1024x576-1-300x169.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-24-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7845,
+      "sha256": "ebeb52643b21d8de17c6c7f2c94c4dbf18a2968afd51ec7c9f1e125ec0d4d1e7"
+    },
+    {
+      "url": "https://cdn.utmify.com.br/scripts/pixel/pixel.js",
+      "file": "assets/pixel.js",
+      "content_type": "text/javascript",
+      "bytes": 40498,
+      "sha256": "3afb6ab2343e23bb8b4cdde9b659e3af54c67e1157ff2ea75a2ac02e244f8df7"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4",
+      "file": "assets/webpack.runtime.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 5819,
+      "sha256": "8dd3674bae946e2e04bc962443f0994d736a761bb28e816c20aee6391ef242ed"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/5-1536x864.jpg",
+      "file": "assets/5-1536x864.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31583,
+      "sha256": "efdddfa865a2379952657e1219d427431fbfd0d05bcb1715b670faca928d1d97"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/12-1024x576-1-300x169.jpg",
+      "file": "assets/12-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7632,
+      "sha256": "4419d6590734f717d28f17c0215a2aca71d5c18a7bc3a5d9665229dc8c2b5ce4"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759330251-Photoroom-1.png",
+      "file": "assets/1759330251-Photoroom-1.png",
+      "content_type": "image/png",
+      "bytes": 330034,
+      "sha256": "46d24c646c7571e973798384a6194cae2593f355e7116d527df27786c2808b3b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "file": "assets/jquery.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 87553,
+      "sha256": "cb6f2d32c49d1c2b25e9ffc9aaafa3f83075346c01bcd4ae6eb187392a4292cf"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "file": "assets/jquery-migrate.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 13577,
+      "sha256": "5274f11e6fb32ae0cf2dfb9f8043272865c397a7c4223b4cfa7d50ea52fbde89"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=4.1.4",
+      "file": "assets/e-swiper.min.css",
+      "content_type": "text/css",
+      "bytes": 5486,
+      "sha256": "196f351ce1a780302b50e7b2404023102d7f555aa518d62ec678829c4b7b1185"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-26-1024x576-1-300x169.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-26-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7721,
+      "sha256": "7a8a57ae9f6bf30a2171506131a5a2829fb028fb6adf2d7c0b6a508d2a463c7a"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=4.1.4",
+      "file": "assets/share-link.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 2752,
+      "sha256": "1030dee6b293cd2f1331f5355130a5db48929f961ba7409a4d4ce83c73caefdd"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/14-1.png",
+      "file": "assets/14-1.png",
+      "content_type": "image/png",
+      "bytes": 190073,
+      "sha256": "5e6b4df12b3456530c3d4f1370889b21ca8522290df17e229a0a19906968535f"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-25-1024x576-1.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-25-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31567,
+      "sha256": "33a8e4a372213bde695078e688524479f79c75eb8eb9f3592aa5e30d97deb52b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/prota-2-1.jpg",
+      "file": "assets/prota-2-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 103721,
+      "sha256": "fa9c9d787c7a0b6f0bf53a8c313079b65c2efd39acf0ccde28d825a80ef1f0a3"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-29-1024x576-1.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-29-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 28746,
+      "sha256": "0cba399c4195200306675acdf12c38c1d03b0dae7dbaa30575dc4405c8016358"
+    },
+    {
+      "url": "https://cdn-reach.hostinger.com/js/embed.js",
+      "file": "assets/embed.js",
+      "content_type": "application/javascript",
+      "bytes": 4558,
+      "sha256": "dfce1944dccf24e5a41873780730b48924965fb4ad56975bb75c0021c2588152"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578171-Photoroom-1.png",
+      "file": "assets/1756578171-Photoroom-1.png",
+      "content_type": "image/png",
+      "bytes": 105871,
+      "sha256": "9966b4850e2046e5de45a2509b5c492ef3f04e68b72522c803034d33c9b14042"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Captura-de-tela-2025-01-18-164035-1.png",
+      "file": "assets/Captura-de-tela-2025-01-18-164035-1.png",
+      "content_type": "image/png",
+      "bytes": 91325,
+      "sha256": "7db96b4f69ebec1f942134c702ce63a3c7de3a550406f3ab94cb61919378650d"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/3-2-576x1024-1-169x300.jpg",
+      "file": "assets/3-2-576x1024-1-169x300.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 9423,
+      "sha256": "a4c6351cf9548ee8a332400b17b253a17237a792172ebecee39867a023f27830"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/15-1024x576-1-300x169.jpg",
+      "file": "assets/15-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7130,
+      "sha256": "3721fe23874c11a4b471edf06d337781c6b6395dd1f7c7c8c7b4c88197cb40e1"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/8-1024x576-1-300x169.jpg",
+      "file": "assets/8-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 6795,
+      "sha256": "52ae2a6025163ece82795a77b567995d214664c900ae5e0ee7353ef79b0e5a28"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578210-Photoroom-1-300x214.png",
+      "file": "assets/1756578210-Photoroom-1-300x214.png",
+      "content_type": "image/png",
+      "bytes": 27042,
+      "sha256": "6a6b1c13a1701145f08970844cbc9dce841bc2ba4828daee76ecc7b353bba406"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-26-1024x576-1.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-26-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 29728,
+      "sha256": "46c89d65d4666f414cc3d244da313a7d1acfdf442bde0518ae41e77e4c0133b9"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/js/lightbox.570c05c5a283cfb6b223.bundle.min.js",
+      "file": "assets/lightbox.570c05c5a283cfb6b223.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 29145,
+      "sha256": "f9067c125b307e5a7886707e016736015eb15a165f4bd66b6cf81943fa45f426"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578421-Photoroom-1.png",
+      "file": "assets/1756578421-Photoroom-1.png",
+      "content_type": "image/png",
+      "bytes": 124406,
+      "sha256": "ac4b581e579c1c52d0942c81dd766b49730a915038e9f81d7ebee2db609e243f"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/themes/hostinger-ai-theme/assets/fonts/Cormorant-Regular.ttf",
+      "file": "assets/Cormorant-Regular.ttf",
+      "content_type": "application/x-font-ttf",
+      "bytes": 379468,
+      "sha256": "e6d68b0f96426f3c595493f66ad0d3045070c7ba15fdad6d8ea1f15c0f9e48b9"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css?ver=4.1.4",
+      "file": "assets/dialog.min.css",
+      "content_type": "text/css",
+      "bytes": 16528,
+      "sha256": "3c6bbf5f5e5ddb0e8cd9c355934ca0cb4b083e3105df64a1ec1640ac1d4a8543"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js",
+      "file": "assets/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 8481,
+      "sha256": "77c0a6d635dad44b53a9eb9f0f367a1bd3bf3620c0e41d3a4c15d1313f2553f0"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1-1.jpg",
+      "file": "assets/1-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 85657,
+      "sha256": "61bcca5f14e8fd3ac2aa946d905d5dc82b19a77dda4ff53982530822195c120b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-29-1024x576-1-300x169.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-29-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7810,
+      "sha256": "10943374e879501879e1a6fc60d5f80c59b68faadf1154d1d337c10a6142227b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/2-1.jpg",
+      "file": "assets/2-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 81562,
+      "sha256": "84f835e4575b83d3357b21b1b205074c9db61a24e05b0a80815155494ed74c78"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/elementor/css/base-desktop.css?ver=6ac00d974642a",
+      "file": "assets/base-desktop.css",
+      "content_type": "text/css",
+      "bytes": 1774,
+      "sha256": "b033cdf530c4c9c275919b5590b8eadcebb0c00305e2fa3943727505ae99a97d"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-24-1024x576-1.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-24-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 29334,
+      "sha256": "78a517435d1ae475a194aa705d49f90739677be798e1413ab182eb57b01f2401"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "file": "assets/fbevents.js",
+      "content_type": "application/x-javascript; charset=utf-8",
+      "bytes": 433365,
+      "sha256": "9e4b581a7483e88873ad835a840ffaaff1c85b3be28951e12e8207a318e7776b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/js/397f2d183c19202777d6.bundle.min.js",
+      "file": "assets/397f2d183c19202777d6.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 23933,
+      "sha256": "813e816a1b807a4e4794e5636073848e62373b66b79d4601efb9e34a86f64521"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-2-768x1365.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-2-768x1365.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 98527,
+      "sha256": "dd2ea0ae2cb15d5f677a36944fe9159e2dec6de68381b66f62859e3927343d27"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Captura-de-tela-2025-01-18-164118-1.png",
+      "file": "assets/Captura-de-tela-2025-01-18-164118-1.png",
+      "content_type": "image/png",
+      "bytes": 101425,
+      "sha256": "6ab881c1b88b93e3a4c18eb1821d51e239c6d3485f3f21339ec82953f3b60f09"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/candle-massage-1-300x200.jpg",
+      "file": "assets/candle-massage-1-300x200.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7412,
+      "sha256": "bb707fedb8d30368758d7a7755acca123699fe8d649cba84e83e42d925996fa7"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/15-1024x576-1-768x432.jpg",
+      "file": "assets/15-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 26695,
+      "sha256": "9d19d1686670070ed9408897688e18a9d93b9f91190d5b08060e379e44921394"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 108091,
+      "sha256": "01f6f6b65eee5255e43fb1f8578bf7ce5aab62311fa84aa2967811d931ca3a52"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/2-1-576x1024-1-169x300.jpg",
+      "file": "assets/2-1-576x1024-1-169x300.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 10529,
+      "sha256": "5e2600a39942b57a3fc68e13289a394262e23d4376f7bb0c1ef6b9c741287a3f"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-27-1024x576-1-768x432.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-27-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 27338,
+      "sha256": "f54cfee7c8b5de55faeb1a10f19ed963790870915006d3ff1e8fbfb2a8612738"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-25-1024x576-1-300x169.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-25-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 8068,
+      "sha256": "603b128b137599e98720c2c49791c736aaa6286f16d55f71715ddf87784052d0"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-29-1024x576-1-768x432.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-29-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 28264,
+      "sha256": "eb48eb1cf3260d181932a4b3f3ad33af6f21d32ada51bb044422f3f630be43c3"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Design_sem_nome_-_2024-09-15T104559.343-removebg-preview-removebg-preview-1-1.png",
+      "file": "assets/Design_sem_nome_-_2024-09-15T104559.343-removebg-preview-removebg-preview-1-1.png",
+      "content_type": "image/png",
+      "bytes": 70614,
+      "sha256": "25fdde5aac70fd2f341289705d74e25660fe53cb50f607feabd4f8fa377f2ae7"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/14-1-1024x1024.png",
+      "file": "assets/14-1-1024x1024.png",
+      "content_type": "image/png",
+      "bytes": 186147,
+      "sha256": "9ed89c403e9b57eb1f92608eacbd580263761b13ebefed8e394da7843b85b8d1"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Captura-de-tela-2025-01-18-164018-1.png",
+      "file": "assets/Captura-de-tela-2025-01-18-164018-1.png",
+      "content_type": "image/png",
+      "bytes": 100246,
+      "sha256": "335ef976040d439510faaa3be99c97fc3a48862c4ee0573954824dfeb96e476e"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-2-864x1536.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-2-864x1536.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 92891,
+      "sha256": "c10b29a95e639522548ae90607837e45e45dbcad672094e6e54efb8388f633ae"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-2-169x300.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-2-169x300.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 11512,
+      "sha256": "6fab82f47f718e579741d9ac86df4f02c3c3c8f8b199d211abb3356b89b5ca94"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578421-Photoroom-1-300x215.png",
+      "file": "assets/1756578421-Photoroom-1-300x215.png",
+      "content_type": "image/png",
+      "bytes": 30635,
+      "sha256": "5c829f55eb20efa3fd996426db4806682989f2612142c5996145b52bdb395332"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/8-1024x576-1.jpg",
+      "file": "assets/8-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 26802,
+      "sha256": "783fa035e9dd4ef546e0c7b9ea7e21539ad3e28e6bbc2106416d8f46c624db23"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1758891872-Photoroom-300x216.png",
+      "file": "assets/1758891872-Photoroom-300x216.png",
+      "content_type": "image/png",
+      "bytes": 62741,
+      "sha256": "20092a31f9b0ab76d41e4e8595ddf70004bb59a111eebfcc3e39ed8d820ffef3"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/3.jpg",
+      "file": "assets/3.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 83067,
+      "sha256": "7e8bbf00c32bb0e5f1ef0873613c54c409288fa6ad0b33f7964b15d976b0d1fe"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-27-1024x576-1.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-27-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 28131,
+      "sha256": "7c2c959a8e3d7f074388ce2b52f35b89f0aa3aa6d0153e942bd4fa8242f6a78b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/5-768x432.jpg",
+      "file": "assets/5-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 31610,
+      "sha256": "5ff126347266b14eaf729356000af608da85be1c3ae4328f6b6917e438a5ea92"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1-768x1365.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1-768x1365.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 102738,
+      "sha256": "89b6d78c9020390f9cbcae10978538b598e3b29e06ce5a4f973b4b89b3aa31ae"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-26-1024x576-1-768x432.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-26-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 28957,
+      "sha256": "74bee7efc3e54d1aef2bc04072cbf0398fff6a8dcaf4dcc9f8faeaf0e301b3ef"
+    },
+    {
+      "url": "https://s.w.org/images/core/emoji/16.0.1/svg/1f381.svg",
+      "file": "assets/1f381.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 656,
+      "sha256": "05a6562177e8e5f89852e08f7bbd6b62597b35d70c92238fcab4d6674ec76048"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759329401-Photoroom-1-768x556.png",
+      "file": "assets/1759329401-Photoroom-1-768x556.png",
+      "content_type": "image/png",
+      "bytes": 255295,
+      "sha256": "b461a471e8c59f2997e440644c45fa5d688ee4f4988f1937cea6a03cb475fb07"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4",
+      "file": "assets/frontend-modules.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 50602,
+      "sha256": "c66f47147d5fe3cceeaa47a93ff7440a328f859b049deec2f9d8f414e9137474"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/candle-massage-1.jpg",
+      "file": "assets/candle-massage-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 18422,
+      "sha256": "9e3818fad0c34f1ca077fcdf4aad63f17bc0320da11c20548145d69d171bc74c"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3",
+      "file": "assets/dialog.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 11622,
+      "sha256": "30770e96ca66d9f13e483db507cef243b0602cbd356bc98a0b5aebf89717bcd2"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759329401-Photoroom-1.png",
+      "file": "assets/1759329401-Photoroom-1.png",
+      "content_type": "image/png",
+      "bytes": 275158,
+      "sha256": "a7e8f50161ac969e839e2f7813cbcbd3cd96be543581124e2c443cce24f7b907"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/7-1024x576-1-300x169.jpg",
+      "file": "assets/7-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7297,
+      "sha256": "a35a44843243f3896f250e64e28a197b10706921cd3260a1f94e2569b50f9b1f"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/9-1024x576-1.jpg",
+      "file": "assets/9-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 30416,
+      "sha256": "55e45eb29d9fe497f1fe955e8941f2bcd423aa81c455d9fa14aea61770cbfe77"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/10-1024x576-1.jpg",
+      "file": "assets/10-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 30248,
+      "sha256": "8dba451b081c982de514a8f86b410ece96285e02cc4946da743bae35d13f445a"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=4.1.4",
+      "file": "assets/widget-image-carousel.min.css",
+      "content_type": "text/css",
+      "bytes": 342,
+      "sha256": "26da5f73e4bb1559c1f4865fa414fed4630a978addcb437dca43c5392a42e564"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1-576x1024.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1-576x1024.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 70536,
+      "sha256": "6208a0f360bbca12386439137204e15bd373c7e84bd10c656da39ba9cf863304"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/10-1024x576-1-300x169.jpg",
+      "file": "assets/10-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7804,
+      "sha256": "908db60b574cea11ced5c08139d5502811409049f78cd88438024cab525d6a96"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.1.4",
+      "file": "assets/widget-icon-list.min.css",
+      "content_type": "text/css",
+      "bytes": 10255,
+      "sha256": "1b34d4c7324321e36db5d35f05bb011238a1326f89058a4399d028d1f6c47dd5"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1758891872-Photoroom-768x552.png",
+      "file": "assets/1758891872-Photoroom-768x552.png",
+      "content_type": "image/png",
+      "bytes": 347366,
+      "sha256": "e2db445f0e6122d2bc41017e40808b1a1883fda0b86804146eba182846c1309d"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4",
+      "file": "assets/frontend.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 32098,
+      "sha256": "1842d6e4d3c7399fdb01ab4b0a7dd5c1d9c096110de0532181ed581f14e9e813"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/js/image-carousel.6167d20b95b33386757b.bundle.min.js",
+      "file": "assets/image-carousel.6167d20b95b33386757b.bundle.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 408,
+      "sha256": "289714af428c6e58d11f943ee46c73be52c6fe6526f7a405e8326a99b4b52307"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1-169x300.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1-169x300.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 9948,
+      "sha256": "976a2943635531bab2e00f1671d665ccc1ec86bcaa2a2647e6413f535dd06d53"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/10-1024x576-1-768x432.jpg",
+      "file": "assets/10-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 29403,
+      "sha256": "5ecc83e5328825a6ee9c11fa8a2c4e3b1b93b8ad713d6ad3414f4713dc7382ff"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/8-1024x576-1-768x432.jpg",
+      "file": "assets/8-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 25641,
+      "sha256": "90a759c0e3cde0895da7903ffba7f287c1496bfe48e790bbe0b67dfdc25ace52"
+    },
+    {
+      "url": "https://cdn.utmify.com.br/scripts/utms/latest.js",
+      "file": "assets/latest.js",
+      "content_type": "text/javascript",
+      "bytes": 19449,
+      "sha256": "599af0d6ba0795a397f44815d223d4fcd968d57f176b167e8a69ae8283b8107b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1-1-1-768x1365.jpg",
+      "file": "assets/1-1-1-768x1365.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 107969,
+      "sha256": "e7863a509c318719c342ffc95776475a969e5fdd33a5cc13344f6ae2d15c1680"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/5-1024x576.jpg",
+      "file": "assets/5-1024x576.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 30973,
+      "sha256": "450e27ff2844229c7bb1a4479c217ae1f59c19b5fe46e284205d615d8d62d7ee"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.1.4",
+      "file": "assets/e-animation-grow.min.css",
+      "content_type": "text/css",
+      "bytes": 198,
+      "sha256": "dad3795cefb3d9f5dc2cb4a6e621043322cc94cd90170f28f25b8a0c3eda7633"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/12-1024x576-1-768x432.jpg",
+      "file": "assets/12-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 28336,
+      "sha256": "068cc345596002aa9e20bf6ebdd87ed97f74b88a739b16e37b03be355cad1ebf"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1758891916-Photoroom.png",
+      "file": "assets/1758891916-Photoroom.png",
+      "content_type": "image/png",
+      "bytes": 449534,
+      "sha256": "6a0cc549470fcc8eb928870735ddc5e566281ab26be8d4196921271f3b6051ae"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578171-Photoroom-1-300x218.png",
+      "file": "assets/1756578171-Photoroom-1-300x218.png",
+      "content_type": "image/png",
+      "bytes": 28073,
+      "sha256": "21f24c450bd2c3139917f7d4600cd27edf7d673c59a130f3e38900e97750cb24"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+      "file": "assets/swiper.min.css",
+      "content_type": "text/css",
+      "bytes": 16471,
+      "sha256": "c57e64fcb72bddafa9c38de574441c3e69ac6c961df96b0cad34da83658bd196"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/7-1024x576-1.jpg",
+      "file": "assets/7-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 28459,
+      "sha256": "09eb06ff31089704ea449b6e2b26dc70e03bd9f418a680031565fff34cfa3370"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.4",
+      "file": "assets/widget-image.min.css",
+      "content_type": "text/css",
+      "bytes": 214,
+      "sha256": "fb8690e594b2f9b841585895d811e8cb839667a1a63963d1a1cdea11e2aa2abb"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/PROVAS-PDP-6-864x1536.png-768x1365-1-1.webp",
+      "file": "assets/PROVAS-PDP-6-864x1536.png-768x1365-1-1.webp",
+      "content_type": "image/webp",
+      "bytes": 41924,
+      "sha256": "9bf4a4ff164d425b0cd209b4649b4da386e14fccf630f6c838826b6f176fcbaf"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-28-1024x576-1.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-28-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 26578,
+      "sha256": "025215792f24183a64a4afa6147b71c9e5729d6c78ac24de59ebd66ea5781adf"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=4.1.4",
+      "file": "assets/bounceIn.min.css",
+      "content_type": "text/css",
+      "bytes": 367,
+      "sha256": "02ae6101096a037cafe3c0bb64a0cb7faf1d617bf6afe35b3405f02f03096b42"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1-864x1536.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-12-1-864x1536.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 101475,
+      "sha256": "568049c580a13db1c17b791a7d58558c9f4d1c6ca7d32b3639035c0ff6503cf3"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759329401-Photoroom-1-300x217.png",
+      "file": "assets/1759329401-Photoroom-1-300x217.png",
+      "content_type": "image/png",
+      "bytes": 54236,
+      "sha256": "c0f867bcb1b46540f6514a743f7b011b37247b614022f7ccf4ce198a83e0546a"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759330251-Photoroom-1-300x206.png",
+      "file": "assets/1759330251-Photoroom-1-300x206.png",
+      "content_type": "image/png",
+      "bytes": 61316,
+      "sha256": "29e919243a682edf2174d71ac21feb8cca2b89b48fd3f0f4ec06b7f5d722c58d"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/14-1-768x768.png",
+      "file": "assets/14-1-768x768.png",
+      "content_type": "image/png",
+      "bytes": 159970,
+      "sha256": "98bc62856e94c5eebe8aa4981027eb08d5c39c41665aae8915d25baab4b7b7cb"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.1.4",
+      "file": "assets/frontend.min.css",
+      "content_type": "text/css",
+      "bytes": 54666,
+      "sha256": "0a5d398672e25dc7f020f69df92a985481b248a60e301fee232d0c8afd648dc5"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-24-1024x576-1-768x432.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-24-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 28591,
+      "sha256": "b32619be900f69f6bbc4527dd9612395b8fa76d1b6553e4542cf822bc68cf770"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/262kb.gif",
+      "file": "assets/262kb.gif",
+      "content_type": "image/gif",
+      "bytes": 268399,
+      "sha256": "575c7ef72ff993f58de07917edd05a1f8040e52f5cda5b8afb6d4260d3c52918"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759331234-Photoroom-300x213.png",
+      "file": "assets/1759331234-Photoroom-300x213.png",
+      "content_type": "image/png",
+      "bytes": 67868,
+      "sha256": "23ee213e1286b427635c1d6e1b927ce4ac1ae6544876ac0d9177b0a77f17da7e"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Captura-de-tela-2025-01-18-163950-1.png",
+      "file": "assets/Captura-de-tela-2025-01-18-163950-1.png",
+      "content_type": "image/png",
+      "bytes": 80193,
+      "sha256": "a1c727bfcb9d2bdadc03dc492a324a4d13480f78c0111b2ec22b16f7d84e4218"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578161-Photoroom-1.png",
+      "file": "assets/1756578161-Photoroom-1.png",
+      "content_type": "image/png",
+      "bytes": 95956,
+      "sha256": "aa65f9579cae957c95e0ffec9af240282ef3e374c8e7f3939c46054cb3e8a38a"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759331234-Photoroom-768x545.png",
+      "file": "assets/1759331234-Photoroom-768x545.png",
+      "content_type": "image/png",
+      "bytes": 340440,
+      "sha256": "74381b8d7f0f3a5af06c3b6d672c18022a0e3d36e1b76d4cadda5affba554efa"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Captura-de-tela-2025-09-26-115304-1.jpg",
+      "file": "assets/Captura-de-tela-2025-09-26-115304-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 46989,
+      "sha256": "ec055efb723ac7b57a04d8ef470106278a7fc9fe6335e8b190deefaa361a3dc9"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/14-1-300x300.png",
+      "file": "assets/14-1-300x300.png",
+      "content_type": "image/png",
+      "bytes": 33876,
+      "sha256": "090d97b3e0a3361417f3d87c3263925efdb70bbfda639544aa852ed56b91b2bb"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1758891916-Photoroom-768x521.png",
+      "file": "assets/1758891916-Photoroom-768x521.png",
+      "content_type": "image/png",
+      "bytes": 389799,
+      "sha256": "bb4b3b1df23673fdceec8a5d4eeafde4443c6b0bb39980e2d8c1b0c650db130d"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1758891872-Photoroom.png",
+      "file": "assets/1758891872-Photoroom.png",
+      "content_type": "image/png",
+      "bytes": 397019,
+      "sha256": "3a627686b88e83374fa7d4e61911404fcb232814be12323dd6498fbebea4d824"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/7-1024x576-1-768x432.jpg",
+      "file": "assets/7-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 27366,
+      "sha256": "becc252009fa0d19cbfd38ad5bfd62ab318cadfd94b21aefcbc695653568b66c"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578161-Photoroom-1-300x217.png",
+      "file": "assets/1756578161-Photoroom-1-300x217.png",
+      "content_type": "image/png",
+      "bytes": 25744,
+      "sha256": "792bb12fb0a9cb7b8c6c84f94114d06d39b76a641c82d62cc8d03630bb87e91b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/elementor/css/post-12.css?ver=1790971286",
+      "file": "assets/post-12.css",
+      "content_type": "text/css",
+      "bytes": 1169,
+      "sha256": "f8fde4c42b8f7086a344b6f3a1d9aaa9992174b2935fb3737a3dc0d54190c95b"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-28-1024x576-1-768x432.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-28-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 26550,
+      "sha256": "83410f920e5deaced3990c195af2c1c1598dd960ff64cf822491e368cdf3ac7e"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/elementor/css/post-10.css?ver=1790971287",
+      "file": "assets/post-10.css",
+      "content_type": "text/css",
+      "bytes": 41329,
+      "sha256": "90a49ac3a5431bbeb0ef5623519b24b67c4c21da62628997c0863282d70b48f7"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/themes/hostinger-ai-theme/assets/fonts/Montserrat-Regular.ttf",
+      "file": "assets/Montserrat-Regular.ttf",
+      "content_type": "application/x-font-ttf",
+      "bytes": 330948,
+      "sha256": "f5a3f02c4a72f1da11c6dadf4fd78c07b2f145a34ed46eb875ed0da28cbd348c"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.4",
+      "file": "assets/widget-heading.min.css",
+      "content_type": "text/css",
+      "bytes": 560,
+      "sha256": "f68e889145cb0e47b7b190b2fdf087a9213a264ad33951512880c9f8bb6d0cd8"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/15-1024x576-1.jpg",
+      "file": "assets/15-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 27071,
+      "sha256": "467d25c7529f7976409689661ff3de9f027c737224c25bc6472c0576ef1f690d"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-27-1024x576-1-300x169.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-27-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7131,
+      "sha256": "a87529fe1991c6da5ae94604953252ae556697ff71a2195c8eaf687070dc5bb1"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/5-300x169.jpg",
+      "file": "assets/5-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7693,
+      "sha256": "9b4fbb489a4fc154580a7adce363b9ff04436c53ba17bca2b4cc39097ce04d67"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1758891916-Photoroom-300x203.png",
+      "file": "assets/1758891916-Photoroom-300x203.png",
+      "content_type": "image/png",
+      "bytes": 78240,
+      "sha256": "00c8ce0204f0af74e325f46e3f604177b01dea7de6b3b52355baf16f8bec28b7"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/themes/hostinger-ai-theme/assets/js/front-scripts.min.js?ver=2.0.27",
+      "file": "assets/front-scripts.min.js",
+      "content_type": "application/x-javascript",
+      "bytes": 44215,
+      "sha256": "010d4010f30d29e4a4f41979021802ef5ddf1c76e9f92e85a1ba520a1fb5e759"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/plugins/elementor/assets/css/conditionals/lightbox.min.css?ver=4.1.4",
+      "file": "assets/lightbox.min.css",
+      "content_type": "text/css",
+      "bytes": 11307,
+      "sha256": "8766b9224b839b0e163cf0b36cc1df65b9bfd008c6dd8ec5a99a20aa28cbbed7"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/13-1-1-1024x302-1-1-1-768x227-1-1.webp",
+      "file": "assets/13-1-1-1024x302-1-1-1-768x227-1-1.webp",
+      "content_type": "image/webp",
+      "bytes": 30268,
+      "sha256": "3d49181e7f4ed7df14fe2dd10a7c1f8869c44d1a1d24157e2b8879ab1ccaef33"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578210-Photoroom-1.png",
+      "file": "assets/1756578210-Photoroom-1.png",
+      "content_type": "image/png",
+      "bytes": 95837,
+      "sha256": "9e944af5ef91ee158437755f22416755c4397127cf0a693b6433fdc5d87a40cf"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-25-1024x576-1-768x432.jpg",
+      "file": "assets/Light-Brown-Cream-and-Peach-Modern-Chic-Personal-Wall-Calendar-25-1024x576-1-768x432.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 30462,
+      "sha256": "a37e6504080df61cdede5a5ffbb66d4ce62789e6a9b4b5ddfed2565c76e3a289"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759330251-Photoroom-1-768x528.png",
+      "file": "assets/1759330251-Photoroom-1-768x528.png",
+      "content_type": "image/png",
+      "bytes": 298370,
+      "sha256": "52f3b9bf16ae66e9108035e49ba1c5c149265b9c6009b315af1729903abd9b08"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578721-Photoroom-1-300x214.png",
+      "file": "assets/1756578721-Photoroom-1-300x214.png",
+      "content_type": "image/png",
+      "bytes": 28596,
+      "sha256": "f05daefd5c542505e050aac14dc65ce7ca24ff04175d710d1f5bf00ba41b1d2a"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/3-2-576x1024-1.jpg",
+      "file": "assets/3-2-576x1024-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 53478,
+      "sha256": "d6aaf6907d99a8d8382671d5f8718d63be8d19df247475b12345af1a05181243"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/Story-Instagram-Frete-Gratis-Simples-Amarelo-2.jpg",
+      "file": "assets/Story-Instagram-Frete-Gratis-Simples-Amarelo-2.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 99252,
+      "sha256": "2e31e93f29541f4a6ddb64cd95fd4a21ccc3ad0dadbf87ae8c83308b496f70ae"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/PROVAS-PDP-7-864x1536.png-768x1365-1-1.webp",
+      "file": "assets/PROVAS-PDP-7-864x1536.png-768x1365-1-1.webp",
+      "content_type": "image/webp",
+      "bytes": 41500,
+      "sha256": "af43b6641dd87cc26b29eb24e8128da2608621c99e01f11e97da5ecf2f4aa966"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1759331234-Photoroom.png",
+      "file": "assets/1759331234-Photoroom.png",
+      "content_type": "image/png",
+      "bytes": 386490,
+      "sha256": "b24cf3b4826273ed6da4cc6ec4cc60cc5718ddc0e908a32849a72bbee0d2effa"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/12-1024x576-1.jpg",
+      "file": "assets/12-1024x576-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 29735,
+      "sha256": "f8a3c471797578409f725ba1956a02bead752827b0f976b7d81a7aad3925b9d5"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/9-1024x576-1-300x169.jpg",
+      "file": "assets/9-1024x576-1-300x169.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 7725,
+      "sha256": "8a09922c9f07ced5be32d605214a4c422c6937c91a86db6ccbc4def0e2a01125"
+    },
+    {
+      "url": "https://poderdotoque.com/wp-content/uploads/2026/06/1756578721-Photoroom-1.png",
+      "file": "assets/1756578721-Photoroom-1.png",
+      "content_type": "image/png",
+      "bytes": 114204,
+      "sha256": "8159241a43908f428627dc8845c9a6e2825270f993e3bfa38711961fca417a0c"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "GARANTIR ACESSO AGORA + BÔNUS GRÁTIS",
+      "href": "https://checkout.payt.com.br/ead6beaa36331665452ca75b4baa0177?payment=pix&utm_source=FBjLj6accd81dc3ca02e69710ef39&utm_campaign=TESTE+BIDCAP%7C120251496346450512&utm_medium=CJ77+-+1%7C120252219548940512&utm_content=5%7C120252219672080512%3A%3AIwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ%3A%3A&utm_term=Facebook_Mobile_Feed&subid=FBjLj6accd81dc3ca02e69710ef39&subid3=CJ77-1%7C120252219548940512&subid4=5%7C120252219672080512&subid5=TESTEBIDCAP%7C120251496346450512&xcod=FBjLj6accd81dc3ca02e69710ef39hQwK21wXxRTESTE+BIDCAP%7C120251496346450512hQwK21wXxRCJ77+-+1%7C120252219548940512hQwK21wXxR5%7C120252219672080512hQwK21wXxRFacebook_Mobile_Feed&sck=FBjLj6accd81dc3ca02e69710ef39hQwK21wXxRTESTE+BIDCAP%7C120251496346450512hQwK21wXxRCJ77+-+1%7C120252219548940512hQwK21wXxR5%7C120252219672080512hQwK21wXxRFacebook_Mobile_Feed&fbclid=IwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ&utm_id=120251496346450512"
+    },
+    {
+      "text": "GARANTIR ACESSO AGORA ✅",
+      "href": "https://checkout.payt.com.br/ead6beaa36331665452ca75b4baa0177?payment=pix&utm_source=FBjLj6accd81dc3ca02e69710ef39&utm_campaign=TESTE+BIDCAP%7C120251496346450512&utm_medium=CJ77+-+1%7C120252219548940512&utm_content=5%7C120252219672080512%3A%3AIwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ%3A%3A&utm_term=Facebook_Mobile_Feed&subid=FBjLj6accd81dc3ca02e69710ef39&subid3=CJ77-1%7C120252219548940512&subid4=5%7C120252219672080512&subid5=TESTEBIDCAP%7C120251496346450512&xcod=FBjLj6accd81dc3ca02e69710ef39hQwK21wXxRTESTE+BIDCAP%7C120251496346450512hQwK21wXxRCJ77+-+1%7C120252219548940512hQwK21wXxR5%7C120252219672080512hQwK21wXxRFacebook_Mobile_Feed&sck=FBjLj6accd81dc3ca02e69710ef39hQwK21wXxRTESTE+BIDCAP%7C120251496346450512hQwK21wXxRCJ77+-+1%7C120252219548940512hQwK21wXxR5%7C120252219672080512hQwK21wXxRFacebook_Mobile_Feed&fbclid=IwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ&utm_id=120251496346450512"
+    },
+    {
+      "text": "GARANTIR ACESSO AGORA ✅",
+      "href": "https://checkout.payt.com.br/ead6beaa36331665452ca75b4baa0177?payment=pix&utm_source=FBjLj6accd81dc3ca02e69710ef39&utm_campaign=TESTE+BIDCAP%7C120251496346450512&utm_medium=CJ77+-+1%7C120252219548940512&utm_content=5%7C120252219672080512%3A%3AIwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ%3A%3A&utm_term=Facebook_Mobile_Feed&subid=FBjLj6accd81dc3ca02e69710ef39&subid3=CJ77-1%7C120252219548940512&subid4=5%7C120252219672080512&subid5=TESTEBIDCAP%7C120251496346450512&xcod=FBjLj6accd81dc3ca02e69710ef39hQwK21wXxRTESTE+BIDCAP%7C120251496346450512hQwK21wXxRCJ77+-+1%7C120252219548940512hQwK21wXxR5%7C120252219672080512hQwK21wXxRFacebook_Mobile_Feed&sck=FBjLj6accd81dc3ca02e69710ef39hQwK21wXxRTESTE+BIDCAP%7C120251496346450512hQwK21wXxRCJ77+-+1%7C120252219548940512hQwK21wXxR5%7C120252219672080512hQwK21wXxRFacebook_Mobile_Feed&fbclid=IwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ&utm_id=120251496346450512"
+    },
+    {
+      "text": "GARANTIR ACESSO AGORA ✅",
+      "href": "https://checkout.payt.com.br/ead6beaa36331665452ca75b4baa0177?payment=pix&utm_source=FBjLj6accd81dc3ca02e69710ef39&utm_campaign=TESTE+BIDCAP%7C120251496346450512&utm_medium=CJ77+-+1%7C120252219548940512&utm_content=5%7C120252219672080512%3A%3AIwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ%3A%3A&utm_term=Facebook_Mobile_Feed&subid=FBjLj6accd81dc3ca02e69710ef39&subid3=CJ77-1%7C120252219548940512&subid4=5%7C120252219672080512&subid5=TESTEBIDCAP%7C120251496346450512&xcod=FBjLj6accd81dc3ca02e69710ef39hQwK21wXxRTESTE+BIDCAP%7C120251496346450512hQwK21wXxRCJ77+-+1%7C120252219548940512hQwK21wXxR5%7C120252219672080512hQwK21wXxRFacebook_Mobile_Feed&sck=FBjLj6accd81dc3ca02e69710ef39hQwK21wXxRTESTE+BIDCAP%7C120251496346450512hQwK21wXxRCJ77+-+1%7C120252219548940512hQwK21wXxR5%7C120252219672080512hQwK21wXxRFacebook_Mobile_Feed&fbclid=IwdGRjcAU5tIlleHRuA2FlbQEwAHBkb2YFZmRpZBZRAnmHUZCl6MLLmwQXOdJJTAywm-BeYWRpZAGrON59SvhQc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHsAWLHK32kQ4o7s5nNs_wanCukGZZm9jon0DGtheYK14zV81ICs1qYKorpg__aem_U-Smiata1hKWUm3BAVpjIQ&utm_id=120251496346450512"
+    }
+  ]
+}
